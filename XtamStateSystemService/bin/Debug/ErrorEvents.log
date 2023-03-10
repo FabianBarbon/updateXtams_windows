@@ -1,0 +1,138 @@
+2023-01-27 11:28:50,040 [7] ERROR ErrorLogs - Error Procesando Estado del sistema: Error converting value False to type 'System.Collections.Generic.List`1[System.String]'. Path '', line 1, position 5.
+ 2023-01-27 11:33:35,695 [4] ERROR ErrorLogs - Error Procesando Estado del sistema: Error converting value "Starcraft" to type 'XtamStateSystemService.Models.responseSendUpdate'. Path '[0]', line 1, position 12.
+ 2023-01-27 11:36:36,823 [4] ERROR ErrorLogs - Error Procesando Estado del sistema: Error converting value False to type 'System.Collections.Generic.List`1[XtamStateSystemService.Models.responseSendUpdate]'. Path '', line 1, position 5.
+ 2023-01-30 15:20:45,672 [4] ERROR ErrorLogs - Error Procesando Estado del sistema: El operador '!' no se puede aplicar al operando del tipo 'Newtonsoft.Json.Linq.JValue'
+ 2023-01-30 15:21:05,337 [4] ERROR ErrorLogs - Error Procesando Estado del sistema: El operador '!' no se puede aplicar al operando del tipo 'Newtonsoft.Json.Linq.JValue'
+ 2023-01-30 15:22:09,159 [5] ERROR ErrorLogs - Error Procesando Estado del sistema: El operador '!' no se puede aplicar al operando del tipo 'Newtonsoft.Json.Linq.JValue'
+ 2023-01-30 15:49:49,718 [7] ERROR ErrorLogs - Error Procesando Estado del sistema: La cadena debe contener exactamente un carácter.
+ 2023-01-30 15:50:09,203 [7] ERROR ErrorLogs - Error Procesando Estado del sistema: La cadena debe contener exactamente un carácter.
+ 2023-01-30 15:50:29,242 [7] ERROR ErrorLogs - Error Procesando Estado del sistema: La cadena debe contener exactamente un carácter.
+ 2023-02-06 14:53:15,749 [7] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-06 14:55:09,164 [4] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-06 14:57:20,522 [7] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-06 14:59:18,170 [7] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-06 15:14:24,492 [7] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-06 15:15:34,161 [4] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-06 15:50:01,084 [4] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 12:08:14,499 [5] ERROR ErrorLogs - Error obteniendo sitios desde la API:System.AggregateException: Se han producido uno o varios errores. ---> System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:3000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   en System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   en System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   en System.Threading.Tasks.Task`1.get_Result()
+   en XtamStateSystemService.Utilities.HttpController.ExistUpdateAsync(String ip_server) en C:\Users\Verytel S.A\source\repos\SEVICIOuPTeNwINDOWS\XtamStateSystemService\XtamStateSystemService\Utilities\HttpController.cs:línea 39
+---> (Nº de excepción interna 0) System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:3000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   en System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---<---
+
+ 2023-02-20 12:08:14,514 [5] ERROR ErrorLogs - Error Procesando Estado del sistema: Se han producido uno o varios errores.
+ 2023-02-20 12:08:34,158 [5] ERROR ErrorLogs - Error obteniendo sitios desde la API:System.AggregateException: Se han producido uno o varios errores. ---> System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:3000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   en System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   en System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   en System.Threading.Tasks.Task`1.get_Result()
+   en XtamStateSystemService.Utilities.HttpController.ExistUpdateAsync(String ip_server) en C:\Users\Verytel S.A\source\repos\SEVICIOuPTeNwINDOWS\XtamStateSystemService\XtamStateSystemService\Utilities\HttpController.cs:línea 39
+---> (Nº de excepción interna 0) System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:3000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   en System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---<---
+
+ 2023-02-20 12:08:34,177 [5] ERROR ErrorLogs - Error Procesando Estado del sistema: Se han producido uno o varios errores.
+ 2023-02-20 12:16:20,534 [5] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 12:17:42,858 [7] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 12:21:17,488 [5] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 12:24:05,644 [5] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 12:27:13,783 [7] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 12:28:55,253 [5] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 12:32:01,938 [5] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 12:46:26,618 [5] ERROR ErrorLogs - Error Procesando Estado del sistema: No se puede convertir un objeto de tipo 'System.String[]' al tipo 'System.IConvertible'.
+ 2023-02-20 13:10:21,703 [7] ERROR ErrorLogs - Error al momento de calcular el mayor del .zip:La cadena de entrada no tiene el formato correcto.
+ 2023-02-20 13:10:21,708 [7] ERROR ErrorLogs - Error Procesando Estado del sistema: La cadena de entrada no tiene el formato correcto.
+ 2023-02-20 13:11:30,450 [4] ERROR ErrorLogs - Error al momento de calcular el mayor del .zip:La cadena de entrada no tiene el formato correcto.
+ 2023-02-20 13:11:30,456 [4] ERROR ErrorLogs - Error Procesando Estado del sistema: La cadena de entrada no tiene el formato correcto.
+ 2023-02-20 13:20:21,556 [7] ERROR ErrorLogs - Error al momento de calcular el mayor del .zip:El recuento no puede ser inferior a cero.
+Nombre del parámetro: count
+ 2023-02-20 13:20:21,561 [7] ERROR ErrorLogs - Error Procesando Estado del sistema: El recuento no puede ser inferior a cero.
+Nombre del parámetro: count
+ 2023-02-20 13:21:49,307 [7] ERROR ErrorLogs - Error al momento de calcular el mayor del .zip:El recuento no puede ser inferior a cero.
+Nombre del parámetro: count
+ 2023-02-20 13:21:49,312 [7] ERROR ErrorLogs - Error Procesando Estado del sistema: El recuento no puede ser inferior a cero.
+Nombre del parámetro: count
+ 2023-02-20 13:47:01,206 [7] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 13:50:54,824 [4] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 13:52:43,247 [4] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 14:01:01,743 [7] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 14:05:31,846 [4] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 14:06:06,392 [4] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 14:52:24,764 [4] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-20 14:55:23,374 [4] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 2023-02-28 14:32:53,176 [7] ERROR ErrorLogs - Error obteniendo sitios desde la API:System.AggregateException: Se han producido uno o varios errores. ---> System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:3000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   en System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   en System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   en System.Threading.Tasks.Task`1.get_Result()
+   en XtamStateSystemService.Utilities.HttpController.ExistUpdateAsync(String ip_server) en C:\Users\Verytel S.A\source\repos\SEVICIOuPTeNwINDOWS\XtamStateSystemService\XtamStateSystemService\Utilities\HttpController.cs:línea 39
+---> (Nº de excepción interna 0) System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:3000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   en System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---<---
+
+ 2023-02-28 14:32:53,182 [7] ERROR ErrorLogs - Error Procesando Estado del sistema: Se han producido uno o varios errores.
+ 2023-02-28 14:34:56,886 [5] ERROR ErrorLogs - Error obteniendo sitios desde la API:System.AggregateException: Se han producido uno o varios errores. ---> System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:3000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   en System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   en System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   en System.Threading.Tasks.Task`1.get_Result()
+   en XtamStateSystemService.Utilities.HttpController.ExistUpdateAsync(String ip_server) en C:\Users\Verytel S.A\source\repos\SEVICIOuPTeNwINDOWS\XtamStateSystemService\XtamStateSystemService\Utilities\HttpController.cs:línea 39
+---> (Nº de excepción interna 0) System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:3000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   en System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---<---
+
+ 2023-02-28 14:34:56,891 [5] ERROR ErrorLogs - Error Procesando Estado del sistema: Se han producido uno o varios errores.
+ 2023-02-28 14:42:38,973 [5] ERROR ErrorLogs - Error al momento de extraer el mayor del .zip:
+ 

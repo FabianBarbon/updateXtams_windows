@@ -1,0 +1,41 @@
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\XtamStateSystemService.exe.config
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\XtamStateSystemService.exe
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\XtamStateSystemService.pdb
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\log4net.dll
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\log4net.xml
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\Newtonsoft.Json.xml
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.ProjectInstaller.resources
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.csproj.GenerateResource.cache
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.csproj.CoreCompileInputs.cache
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.csproj.CopyComplete
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.exe
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.pdb
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\XtamStateSystemService.exe.config
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\XtamStateSystemService.exe
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\XtamStateSystemService.pdb
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\log4net.dll
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\Newtonsoft.Json.dll
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\log4net.xml
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\bin\Release\Newtonsoft.Json.xml
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.csproj.AssemblyReference.cache
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.ProjectInstaller.resources
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.csproj.GenerateResource.cache
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.csproj.CoreCompileInputs.cache
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.csproj.CopyComplete
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.exe
+D:\Documentos FH\Documentos Omnia\DESARROLLOS\XtamRemoteService\XtamStateSystemService\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.pdb
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\bin\Release\XtamStateSystemService.exe.config
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\bin\Release\XtamStateSystemService.exe
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\bin\Release\XtamStateSystemService.pdb
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\bin\Release\log4net.dll
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\bin\Release\log4net.xml
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\bin\Release\Newtonsoft.Json.xml
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.csproj.AssemblyReference.cache
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.ProjectInstaller.resources
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.csproj.GenerateResource.cache
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.csproj.CoreCompileInputs.cache
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.csproj.CopyComplete
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.exe
+C:\Users\Hans Alvarez\Documents\verytel\fabian\sprint21\XtamStateSystemService_Test\XtamStateSystemService\XtamStateSystemService\obj\Release\XtamStateSystemService.pdb
